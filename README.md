@@ -16,7 +16,7 @@ This project is a put-together exercise for &lt;form&gt;, &lt;input&gt;, &lt;lab
 
 ## 👏 Credits
 
-This project is based on the HTML tutorial by Colt Steele on Udemy. 
+This project is based on the HTML tutorial on Udemy by Colt Steele. 
 
 Background image by Austris Augusts via Unsplash. 
 
