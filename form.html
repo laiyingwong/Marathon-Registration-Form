@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Marathon Registration</title>
+  </head>
+
+  <body>
+    <img src="images/race-tracks-unsplash.jpg" alt="race-tracks-img" />
+    <div class="container">
+      <h1>Sign Up for Marathon!</h1>
+      <form action="nowhere">
+        <!-- create textboxes for first name & last name -->
+        <div>
+          <label for="first">First Name:</label>
+          <input type="text" name="first" id="first" required />
+          <br /><br />
+          <label for="last">Last Name:</label>
+          <input type="text" name="last" id="last" required />
+        </div>
+
+        <!-- implement radio buttons for race selection -->
+        <div>
+          <p>Select a Race:</p>
+          <input type="radio" name="selection" id="fun_run" value="5k" />
+          <label for="fun_run">Fun Run 5k</label>
+          <br />
+          <input
+            type="radio"
+            name="selection"
+            id="half"
+            value="half_marathon"
+          />
+          <label for="half">Half Marathon</label>
+          <br />
+          <input
+            type="radio"
+            name="selection"
+            id="full"
+            value="full_marathon"
+          />
+          <label for="full">Full Marathon</label>
+        </div>
+        <br />
+        <!-- create textboxes for Email & Password -->
+        <div>
+          <label for="email">Email:</label>
+          <input type="email" name="email" id="email" required />
+          <br /><br />
+          <label for="password">Password:</label>
+          <input type="password" name="password" id="password" required />
+        </div>
+        <br />
+        <!-- create a drop-down menu for age group selection -->
+        <div>
+          <label for="age">Select Age Group</label>
+          <select name="age_grop" id="age">
+            <option value="">--Please select an option--</option>
+            <option value="under_18">under 18</option>
+            <option value="18-30">18-30</option>
+            <option value="30-50">30-50</option>
+            <option value="50+">50+</option>
+          </select>
+        </div>
+        <br />
+        <!-- create a checkbox -->
+        <div class="checkbox">
+          <input type="checkbox" id="checkbox" required />
+          <label for="checkbox"
+            >All the information provided above is correct.
+          </label>
+        </div>
+        <!-- last but not least, a registration button -->
+        <button>Register</button>
+      </form>
+    </div>
+  </body>
+</html>
