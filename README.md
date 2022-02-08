@@ -10,13 +10,13 @@ Marathon registration form demonstrates a form with a collection of inputs, chec
 
 ## ✨ Motivation 
 
-This project is a put-together exercise for &lt;form&gt;, &lt;input&gt;, &lt;label&gt;, &lt;button&gt;, &lt;select&gt; and &lt;option&gt; elements as well as the form validations in HTML. I also experimented with CSS and Flexbox for styling to spice it up! Below is the original version from the tutorial:
+This project is a put-together exercise for `form`, `input`, `label`, `button`, `select` and `option` elements as well as the form validations in HTML. I also experimented with CSS and Flexbox for styling to spice it up! Below is the original version from the tutorial:
 
 ![original version](Assets/marathon-origin.png)
 
 ## 👏 Credits
 
-This project is based on the HTML tutorial on Udemy by <a href="https://www.udemy.com/user/coltsteele/">Colt Steele</a>. 
+This project is based on the HTML tutorial in <a href="https://www.udemy.com/course/the-web-developer-bootcamp/">The Web Developer Bootcamp</a> by Colt Steele. 
 
 <a href="https://unsplash.com/photos/52p1K0d0euM">Background image</a> by Austris Augusts via Unsplash. 
 
