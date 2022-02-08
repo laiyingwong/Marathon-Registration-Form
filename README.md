@@ -16,7 +16,7 @@ This project is a put-together exercise for `form`, `input`, `label`, `button`, 
 
 ## 👏 Credits
 
-This project is based on the HTML tutorial in <a href="https://www.udemy.com/course/the-web-developer-bootcamp/">The Web Developer Bootcamp</a> by Colt Steele. 
+This project is based on an HTML tutorial of <a href="https://www.udemy.com/course/the-web-developer-bootcamp/">The Web Developer Bootcamp</a> by Colt Steele. 
 
 <a href="https://unsplash.com/photos/52p1K0d0euM">Background image</a> by Austris Augusts via Unsplash. 
 
